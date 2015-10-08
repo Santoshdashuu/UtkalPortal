@@ -228,6 +228,7 @@ if(isset($_GET['success']) === true && empty($_GET['success']) === true) {
                 <option value="Integrated MCA">Integrated MCA</option>
                 <option value="Integrated MBA">Integrated MBA</option>
                 <option value="Integrated LAW">Integrated LAW</option>
+                <option value="M. Tech. Computer Science And Engineering">M. Tech. Computer Science And Engineering</option>
                 <option value="M. Tech. in Computer Science">M. Tech. in Computer Science</option>
 				<option value="M. Tech. in Information Technology">M. Tech. in Information Technology</option>
 				<option value="M.Sc. in Computer Science">M.Sc. in Computer Science</option>
